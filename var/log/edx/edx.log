@@ -1,0 +1,154 @@
+2022-08-07 00:02:38,136 WARNING 16776 [django.security.csrf] [user None] [ip 95.214.235.205] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 00:44:46,619 WARNING 16779 [django.security.csrf] [user None] [ip 135.125.217.54] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 01:33:14,138 WARNING 16776 [django.security.csrf] [user None] [ip 95.214.235.205] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 02:08:55,545 WARNING 16776 [django.security.csrf] [user None] [ip 135.125.217.54] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 02:43:47,166 WARNING 16776 [django.security.csrf] [user None] [ip 89.248.165.52] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 03:01:57,369 WARNING 16779 [django.security.csrf] [user None] [ip 95.214.235.205] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 03:20:47,959 WARNING 16779 [django.security.csrf] [user None] [ip 20.1.161.15] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 03:21:23,903 WARNING 16776 [django.security.csrf] [user None] [ip 20.1.161.15] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 03:33:18,718 WARNING 16778 [django.security.csrf] [user None] [ip 135.125.217.54] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 04:31:51,741 WARNING 16776 [django.security.csrf] [user None] [ip 95.214.235.205] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 04:57:40,902 WARNING 16776 [django.security.csrf] [user None] [ip 135.125.217.54] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 06:02:20,745 WARNING 16778 [django.security.csrf] [user None] [ip 95.214.235.205] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 06:23:47,818 WARNING 16777 [django.security.csrf] [user None] [ip 135.125.246.110] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 07:17:55,022 WARNING 16776 [django.security.csrf] [user None] [ip 135.125.246.110] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 07:32:29,098 WARNING 16779 [django.security.csrf] [user None] [ip 95.214.235.205] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 08:46:31,377 WARNING 16776 [django.security.csrf] [user None] [ip 135.125.246.110] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 09:01:59,850 WARNING 16776 [django.security.csrf] [user None] [ip 95.214.235.205] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 10:14:37,623 WARNING 16776 [django.security.csrf] [user None] [ip 135.125.246.110] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 10:32:37,586 WARNING 16776 [django.security.csrf] [user None] [ip 95.214.235.205] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 11:02:09,878 WARNING 16779 [django.security.csrf] [user None] [ip 20.14.93.27] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 11:02:10,303 WARNING 16776 [django.security.csrf] [user None] [ip 20.14.93.27] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 11:42:49,567 WARNING 16779 [django.security.csrf] [user None] [ip 135.125.246.110] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 12:02:17,012 WARNING 16776 [django.security.csrf] [user None] [ip 95.214.235.205] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 13:10:54,798 WARNING 16778 [django.security.csrf] [user None] [ip 135.125.246.110] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 13:32:12,909 WARNING 16776 [django.security.csrf] [user None] [ip 95.214.235.205] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 14:38:09,362 WARNING 16777 [django.security.csrf] [user None] [ip 135.125.246.110] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 15:03:00,293 WARNING 16777 [django.security.csrf] [user None] [ip 95.214.235.205] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 15:04:05,814 WARNING 16776 [django.security.csrf] [user None] [ip 52.178.110.219] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 16:05:15,313 WARNING 16777 [django.security.csrf] [user None] [ip 135.125.246.110] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 16:33:01,507 WARNING 16777 [django.security.csrf] [user None] [ip 95.214.235.205] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 17:32:41,596 WARNING 16779 [django.security.csrf] [user None] [ip 135.125.246.110] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 18:02:18,338 WARNING 16777 [django.security.csrf] [user None] [ip 95.214.235.205] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 18:58:46,339 WARNING 16776 [django.security.csrf] [user None] [ip 135.125.246.110] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 19:32:35,023 WARNING 16778 [django.security.csrf] [user None] [ip 95.214.235.205] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 20:25:17,024 WARNING 16776 [django.security.csrf] [user None] [ip 135.125.246.110] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 21:02:48,901 WARNING 16776 [django.security.csrf] [user None] [ip 95.214.235.205] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 21:50:58,695 WARNING 16776 [django.security.csrf] [user None] [ip 135.125.246.110] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 22:32:04,682 WARNING 16776 [django.security.csrf] [user None] [ip 95.214.235.205] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-07 23:17:03,018 WARNING 16776 [django.security.csrf] [user None] [ip 135.125.246.110] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-08 00:02:00,483 WARNING 16777 [django.security.csrf] [user None] [ip 95.214.235.205] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-08 00:42:43,677 WARNING 16778 [django.security.csrf] [user None] [ip 135.125.246.110] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-08 01:32:23,820 WARNING 16776 [django.security.csrf] [user None] [ip 95.214.235.205] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-08 02:08:15,526 WARNING 16779 [django.security.csrf] [user None] [ip 135.125.246.110] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-08 03:02:27,297 WARNING 16778 [django.security.csrf] [user None] [ip 95.214.235.205] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-08 03:34:06,694 WARNING 16776 [django.security.csrf] [user None] [ip 135.125.246.110] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-08 03:56:28,360 WARNING 16779 [django.security.csrf] [user None] [ip 3.87.225.118] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-08 03:56:28,546 WARNING 16778 [django.security.csrf] [user None] [ip 3.87.225.118] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-08 04:32:28,625 WARNING 16778 [django.security.csrf] [user None] [ip 95.214.235.205] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-08 05:00:11,550 WARNING 16778 [django.security.csrf] [user None] [ip 135.125.246.110] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-08 05:08:20,739 INFO 16726 [openedx.core.djangoapps.content_libraries.auth] [user None] [ip 127.0.0.1] auth.py:32 - LTI 1.3 authentication: iss=None, sub=None
+2022-08-08 05:08:20,924 INFO 16726 [audit] [user 3] [ip 127.0.0.1] models.py:2727 - Login success - user (user@example.com)
+2022-08-08 05:09:12,100 INFO 16726 [openedx.core.djangoapps.content_libraries.auth] [user None] [ip 127.0.0.1] auth.py:32 - LTI 1.3 authentication: iss=None, sub=None
+2022-08-08 05:09:12,270 INFO 16726 [ratelimitbackend] [user None] [ip 127.0.0.1] backends.py:49 - Login failed: username 'user', IP 127.0.0.1
+2022-08-08 05:13:46,990 INFO 16777 [audit] [user 9] [ip 125.16.32.90] models.py:2725 - Login success - user.id: 9
+2022-08-08 05:13:47,079 INFO 5978 [celery.worker.strategy] [user None] [ip None] strategy.py:157 - Received task: openedx.core.djangoapps.user_authn.tasks.send_activation_email[5621662a-95f8-4d4d-8cbf-1da9c7edd187]  
+2022-08-08 05:13:47,100 INFO 16777 [openedx_events.tooling] [user 9] [ip 125.16.32.90] tooling.py:160 - Responses of the Open edX Event <org.openedx.learning.student.registration.completed.v1>: 
+[]
+2022-08-08 05:13:47,144 ERROR 16777 [edx.discussion] [user 9] [ip 125.16.32.90] models.py:2710 - Could not create comments service user with id 9
+Traceback (most recent call last):
+  File "/opt/bitnami/edx/app/edxapp/edx-platform/common/djangoapps/student/models.py", line 2707, in create_comments_service_user
+    cc_user.save()
+  File "/opt/bitnami/edx/app/edxapp/edx-platform/openedx/core/djangoapps/django_comment_common/comment_client/models.py", line 139, in save
+    response = perform_request(
+  File "/opt/bitnami/edx/app/edxapp/edx-platform/openedx/core/djangoapps/django_comment_common/comment_client/utils.py", line 82, in perform_request
+    raise CommentClientRequestError(response.text, response.status_code)
+openedx.core.djangoapps.django_comment_common.comment_client.utils.CommentClientRequestError: ["Username is already taken"]
+2022-08-08 05:13:47,149 INFO 16777 [audit] [user 9] [ip 125.16.32.90] register.py:290 - Login success on new account creation - imgautam
+2022-08-08 05:13:47,171 ERROR 24096 [edx.celery.task] [user None] [ip None] tasks.py:107 - Unable to send activation email to user from "bhavesh.mandloi@perpetualtp.com" to "gautam.mahapatra@slxlearning.com"
+Traceback (most recent call last):
+  File "/opt/bitnami/edx/app/edxapp/edx-platform/openedx/core/djangoapps/user_authn/tasks.py", line 90, in send_activation_email
+    ace.send(msg)
+  File "/opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/edx_ace/ace.py", line 53, in send
+    delivery.deliver(channel, rendered_message, msg)
+  File "/opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/edx_ace/delivery.py", line 51, in deliver
+    channel.deliver(message, rendered_message)
+  File "/opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/edx_ace/channel/django_email.py", line 68, in deliver
+    mail.send()
+  File "/opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/django/core/mail/message.py", line 284, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/django/core/mail/backends/smtp.py", line 102, in send_messages
+    new_conn_created = self.open()
+  File "/opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/django/core/mail/backends/smtp.py", line 62, in open
+    self.connection = self.connection_class(self.host, self.port, **connection_params)
+  File "/opt/bitnami/python/lib/python3.8/smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+  File "/opt/bitnami/python/lib/python3.8/smtplib.py", line 339, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "/opt/bitnami/python/lib/python3.8/smtplib.py", line 310, in _get_socket
+    return socket.create_connection((host, port), timeout,
+  File "/opt/bitnami/python/lib/python3.8/socket.py", line 808, in create_connection
+    raise err
+  File "/opt/bitnami/python/lib/python3.8/socket.py", line 796, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+2022-08-08 05:13:47,177 ERROR 24096 [celery.app.trace] [user None] [ip None] trace.py:255 - Task openedx.core.djangoapps.user_authn.tasks.send_activation_email[5621662a-95f8-4d4d-8cbf-1da9c7edd187] raised unexpected: Exception()
+Traceback (most recent call last):
+  File "/opt/bitnami/edx/app/edxapp/edx-platform/openedx/core/djangoapps/user_authn/tasks.py", line 90, in send_activation_email
+    ace.send(msg)
+  File "/opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/edx_ace/ace.py", line 53, in send
+    delivery.deliver(channel, rendered_message, msg)
+  File "/opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/edx_ace/delivery.py", line 51, in deliver
+    channel.deliver(message, rendered_message)
+  File "/opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/edx_ace/channel/django_email.py", line 68, in deliver
+    mail.send()
+  File "/opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/django/core/mail/message.py", line 284, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/django/core/mail/backends/smtp.py", line 102, in send_messages
+    new_conn_created = self.open()
+  File "/opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/django/core/mail/backends/smtp.py", line 62, in open
+    self.connection = self.connection_class(self.host, self.port, **connection_params)
+  File "/opt/bitnami/python/lib/python3.8/smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+  File "/opt/bitnami/python/lib/python3.8/smtplib.py", line 339, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "/opt/bitnami/python/lib/python3.8/smtplib.py", line 310, in _get_socket
+    return socket.create_connection((host, port), timeout,
+  File "/opt/bitnami/python/lib/python3.8/socket.py", line 808, in create_connection
+    raise err
+  File "/opt/bitnami/python/lib/python3.8/socket.py", line 796, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/celery/app/trace.py", line 412, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/celery/app/trace.py", line 704, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/edx_django_utils/monitoring/internal/code_owner/utils.py", line 193, in new_function
+    return wrapped_function(*args, **kwargs)
+  File "/opt/bitnami/edx/app/edxapp/edx-platform/openedx/core/djangoapps/user_authn/tasks.py", line 112, in send_activation_email
+    raise Exception  # lint-amnesty, pylint: disable=raise-missing-from
+Exception
+2022-08-08 05:13:47,182 INFO 5978 [celery.worker.strategy] [user None] [ip None] strategy.py:157 - Received task: openedx.core.djangoapps.user_authn.tasks.check_pwned_password_and_send_track_event[bd4cfecd-b96c-47e5-ab1c-4c1c6c231f35]  
+2022-08-08 05:13:47,321 WARNING 16777 [openedx.core.djangoapps.safe_sessions.middleware] [user 9] [ip 125.16.32.90] middleware.py:418 - SafeCookieData user at request '8' does not match user at response: '9' for request path '/api/user/v2/account/registration/'
+2022-08-08 05:13:47,321 WARNING 16777 [openedx.core.djangoapps.safe_sessions.middleware] [user 9] [ip 125.16.32.90] middleware.py:430 - SafeCookieData user at request '8' does not match user in session: '9' for request path '/api/user/v2/account/registration/'
+2022-08-08 05:13:47,530 INFO 40648 [celery.app.trace] [user None] [ip None] trace.py:125 - Task openedx.core.djangoapps.user_authn.tasks.check_pwned_password_and_send_track_event[bd4cfecd-b96c-47e5-ab1c-4c1c6c231f35] succeeded in 0.011392362997867167s: None
+2022-08-08 05:14:21,109 WARNING 16778 [django.security.csrf] [user None] [ip 207.32.219.15] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-08 05:18:26,426 INFO 16779 [audit] [user 9] [ip 125.16.32.90] models.py:2735 - Logout - user.id: 9
+2022-08-08 05:48:05,199 WARNING 16778 [django.security.csrf] [user None] [ip 135.125.246.110] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-08 06:01:49,495 WARNING 16776 [django.security.csrf] [user None] [ip 95.214.235.205] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-08 06:54:20,891 WARNING 16777 [django.security.csrf] [user None] [ip 137.184.33.230] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-08 06:54:42,785 WARNING 16777 [django.security.csrf] [user None] [ip 137.184.84.171] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-08 07:22:06,241 WARNING 16777 [django.security.csrf] [user None] [ip 135.125.246.110] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-08 07:31:00,352 WARNING 16776 [django.security.csrf] [user None] [ip 95.214.235.205] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-08 08:50:24,839 WARNING 16779 [django.security.csrf] [user None] [ip 135.125.246.110] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-08 08:50:35,604 INFO 16727 [openedx.core.djangoapps.content_libraries.auth] [user None] [ip 127.0.0.1] auth.py:32 - LTI 1.3 authentication: iss=None, sub=None
+2022-08-08 08:50:35,775 INFO 16727 [ratelimitbackend] [user None] [ip 127.0.0.1] backends.py:49 - Login failed: username 'user', IP 127.0.0.1
+2022-08-08 09:03:35,204 WARNING 16776 [django.security.csrf] [user None] [ip 95.214.235.205] log.py:224 - Forbidden (CSRF cookie not set.): /
+2022-08-08 09:11:49,033 INFO 16727 [openedx.core.djangoapps.content_libraries.auth] [user None] [ip 127.0.0.1] auth.py:32 - LTI 1.3 authentication: iss=None, sub=None
+2022-08-08 09:11:49,243 INFO 16727 [audit] [user 10] [ip 127.0.0.1] models.py:2727 - Login success - bhavesh (bhavesh.mandloi@perpetualtp.com)
+2022-08-08 09:11:49,258 WARNING 16727 [openedx.core.djangoapps.safe_sessions.middleware] [user 10] [ip 127.0.0.1] middleware.py:418 - SafeCookieData user at request '3' does not match user at response: '10' for request path '/admin/login/'
+2022-08-08 09:11:49,259 WARNING 16727 [openedx.core.djangoapps.safe_sessions.middleware] [user 10] [ip 127.0.0.1] middleware.py:430 - SafeCookieData user at request '3' does not match user in session: '10' for request path '/admin/login/'

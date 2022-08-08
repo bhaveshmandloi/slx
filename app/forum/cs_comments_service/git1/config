@@ -1,0 +1,5 @@
+[core]
+	bare = false
+[remote "origin"]
+	url = https://github.com/edx/cs_comments_service
+	fetch = +refs/tags/open-release/maple.3:refs/tags/open-release/maple.3

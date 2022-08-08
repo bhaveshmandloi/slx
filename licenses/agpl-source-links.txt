@@ -1,0 +1,1 @@
+edx-13.3.0-maple.3,AGPL,git+https://github.com/edx/edx-platform#refs/tags/open-release/maple.3edx-learning-mfe-13.3.0-maple.3,AGPL,git+https://github.com/openedx/frontend-app-learning#refs/tags/open-release/maple.3

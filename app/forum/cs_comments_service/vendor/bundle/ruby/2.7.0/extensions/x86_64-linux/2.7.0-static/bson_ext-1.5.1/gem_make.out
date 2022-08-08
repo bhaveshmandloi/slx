@@ -1,0 +1,33 @@
+current directory: /opt/bitnami/edx/app/forum/cs_comments_service/vendor/bundle/ruby/2.7.0/gems/bson_ext-1.5.1/ext/cbson
+/opt/bitnami/ruby/bin/ruby -I /opt/bitnami/ruby/lib/ruby/site_ruby/2.7.0 -r ./siteconf20220704-56-fi4kta.rb extconf.rb
+checking for asprintf()... yes
+checking for ruby/st.h... yes
+checking for ruby/regex.h... yes
+checking for ruby/encoding.h... yes
+creating Makefile
+
+current directory: /opt/bitnami/edx/app/forum/cs_comments_service/vendor/bundle/ruby/2.7.0/gems/bson_ext-1.5.1/ext/cbson
+make DESTDIR\= clean
+
+current directory: /opt/bitnami/edx/app/forum/cs_comments_service/vendor/bundle/ruby/2.7.0/gems/bson_ext-1.5.1/ext/cbson
+make DESTDIR\=
+compiling bson_buffer.c
+compiling cbson.c
+cbson.c: In function 'write_doc':
+cbson.c:602:18: warning: implicit declaration of function 'bson_buffer_get_max_size'; did you mean 'bson_buffer_set_max_size'? [-Wimplicit-function-declaration]
+  602 |     if (length > bson_buffer_get_max_size(buffer)) {
+      |                  ^~~~~~~~~~~~~~~~~~~~~~~~
+      |                  bson_buffer_set_max_size
+cbson.c: In function 'objectid_generate':
+cbson.c:905:13: warning: implicit declaration of function 'htonl' [-Wimplicit-function-declaration]
+  905 |         t = htonl((int)time(NULL));
+      |             ^~~~~
+cbson.c:913:11: warning: implicit declaration of function 'htons' [-Wimplicit-function-declaration]
+  913 |     pid = htons(getpid());
+      |           ^~~~~
+compiling encoding_helpers.c
+linking shared-object bson_ext/cbson.so
+
+current directory: /opt/bitnami/edx/app/forum/cs_comments_service/vendor/bundle/ruby/2.7.0/gems/bson_ext-1.5.1/ext/cbson
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cbson.so ./.gem.20220704-56-7ac0lv/bson_ext

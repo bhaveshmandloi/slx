@@ -1,0 +1,34 @@
+CONSUMER_DELAY: 10
+CSRF_COOKIE_SECURE: false
+DATABASES:
+    default:
+        ATOMIC_REQUESTS: true
+        CONN_MAX_AGE: 0
+        ENGINE: django.db.backends.mysql
+        HOST: 127.0.0.1
+        NAME: bitnami_xqueue
+        OPTIONS: {}
+        PASSWORD: 99d704959585c5c391490a1ea7fae12a8752aa209cd5744460cf2cfacbd67f0a
+        PORT: "3306"
+        USER: bn_xqueue
+LOCAL_LOGLEVEL: INFO
+LOGGING_ENV: sandbox
+LOG_DIR: /opt/bitnami/edx/var/log/xqueue
+NEWRELIC_APPNAME:
+NEWRELIC_LICENSE_KEY:
+REQUESTS_BASIC_AUTH:
+    - 3eac136e584518a94f64f69b7a68aac8fc071d37ba9b6131fb5e82f74aed52d3
+    - "0942c04ac69356753f84691cfc3b925f3756abc1356080deff5d9861aefc94f2"
+SESSION_COOKIE_SECURE: false
+SUBMISSION_PROCESSING_DELAY: 1
+SYSLOG_SERVER: localhost
+UPLOAD_BUCKET: sandbox-bucket
+UPLOAD_PATH_PREFIX: sandbox-xqueue
+USERS:
+    lms: 4d889e820a6fd649d7194ccea1fc93356472a4235ffc8874c57184bf682d0f03
+XQUEUES:
+    certificates: null
+    edX-Open_DemoX: http://localhost:18050
+    open-ended: null
+    open-ended-message: null
+    test-pull: null

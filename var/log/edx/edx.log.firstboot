@@ -1,0 +1,417 @@
+2022-08-05 07:49:40,450 WARNING 3534 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/boto/plugin.py:40: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+  import imp
+
+2022-08-05 07:49:41,374 WARNING 3534 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/botocore/vendored/requests/packages/urllib3/_collections.py:1: DeprecationWarning: Using or importing the ABCs from 'collections' instead of from 'collections.abc' is deprecated since Python 3.3, and in 3.10 it will stop working
+  from collections import Mapping, MutableMapping
+
+2022-08-05 07:49:53,092 WARNING 3534 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/edx-platform/openedx/core/types/admin.py:49: DeprecationWarning: Django 3.2+ available: the _admin_display method and the AdminMethodclass should be removed from openedx.core.types
+  warnings.warn(
+
+2022-08-05 07:49:53,440 WARNING 3534 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/storages/backends/s3boto.py:41: DeprecationWarning: The S3BotoStorage backend is deprecated in favor of the S3Boto3Storage backend and will be removed in django-storages 1.8. This backend is mostly in bugfix only mode and has been for quite a while (in much the same way as its underlying library 'boto'). For performance, security and new feature reasons it is _strongly_ recommended that you update to the S3Boto3Storage backend. Please see the migration docs https://django-storages.readthedocs.io/en/latest/backends/amazon-S3.html#migrating-boto-to-boto3.
+  warnings.warn(
+
+2022-08-05 07:49:54,203 WARNING 3534 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/swiftclient/client.py:84: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if StrictVersion(requests.__version__) < StrictVersion('2.0.0') \
+
+2022-08-05 07:49:54,859 WARNING 3534 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/specifiers.py:255: DeprecationWarning: Creating a LegacyVersion has been deprecated and will be removed in the next major release
+  warnings.warn(
+
+2022-08-05 07:49:54,939 WARNING 3534 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/version.py:111: DeprecationWarning: Creating a LegacyVersion has been deprecated and will be removed in the next major release
+  warnings.warn(
+
+2022-08-05 07:53:23,846 WARNING 3617 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/boto/plugin.py:40: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+  import imp
+
+2022-08-05 07:53:23,893 WARNING 3617 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/botocore/vendored/requests/packages/urllib3/_collections.py:1: DeprecationWarning: Using or importing the ABCs from 'collections' instead of from 'collections.abc' is deprecated since Python 3.3, and in 3.10 it will stop working
+  from collections import Mapping, MutableMapping
+
+2022-08-05 07:53:25,584 WARNING 3617 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/edx-platform/openedx/core/types/admin.py:49: DeprecationWarning: Django 3.2+ available: the _admin_display method and the AdminMethodclass should be removed from openedx.core.types
+  warnings.warn(
+
+2022-08-05 07:53:25,678 WARNING 3617 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/storages/backends/s3boto.py:41: DeprecationWarning: The S3BotoStorage backend is deprecated in favor of the S3Boto3Storage backend and will be removed in django-storages 1.8. This backend is mostly in bugfix only mode and has been for quite a while (in much the same way as its underlying library 'boto'). For performance, security and new feature reasons it is _strongly_ recommended that you update to the S3Boto3Storage backend. Please see the migration docs https://django-storages.readthedocs.io/en/latest/backends/amazon-S3.html#migrating-boto-to-boto3.
+  warnings.warn(
+
+2022-08-05 07:53:25,881 WARNING 3617 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/swiftclient/client.py:84: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if StrictVersion(requests.__version__) < StrictVersion('2.0.0') \
+
+2022-08-05 07:53:25,959 WARNING 3617 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/specifiers.py:255: DeprecationWarning: Creating a LegacyVersion has been deprecated and will be removed in the next major release
+  warnings.warn(
+
+2022-08-05 07:53:26,038 WARNING 3617 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/version.py:111: DeprecationWarning: Creating a LegacyVersion has been deprecated and will be removed in the next major release
+  warnings.warn(
+
+2022-08-05 07:55:57,023 WARNING 3730 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/boto/plugin.py:40: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+  import imp
+
+2022-08-05 07:55:57,065 WARNING 3730 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/botocore/vendored/requests/packages/urllib3/_collections.py:1: DeprecationWarning: Using or importing the ABCs from 'collections' instead of from 'collections.abc' is deprecated since Python 3.3, and in 3.10 it will stop working
+  from collections import Mapping, MutableMapping
+
+2022-08-05 07:55:58,528 WARNING 3730 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/edx-platform/openedx/core/types/admin.py:49: DeprecationWarning: Django 3.2+ available: the _admin_display method and the AdminMethodclass should be removed from openedx.core.types
+  warnings.warn(
+
+2022-08-05 07:55:59,103 WARNING 3730 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/swiftclient/client.py:84: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if StrictVersion(requests.__version__) < StrictVersion('2.0.0') \
+
+2022-08-05 07:56:01,688 WARNING 3730 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/specifiers.py:255: DeprecationWarning: Creating a LegacyVersion has been deprecated and will be removed in the next major release
+  warnings.warn(
+
+2022-08-05 07:56:01,765 WARNING 3730 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/version.py:111: DeprecationWarning: Creating a LegacyVersion has been deprecated and will be removed in the next major release
+  warnings.warn(
+
+2022-08-05 07:57:28,571 WARNING 3756 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/boto/plugin.py:40: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+  import imp
+
+2022-08-05 07:57:28,615 WARNING 3756 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/botocore/vendored/requests/packages/urllib3/_collections.py:1: DeprecationWarning: Using or importing the ABCs from 'collections' instead of from 'collections.abc' is deprecated since Python 3.3, and in 3.10 it will stop working
+  from collections import Mapping, MutableMapping
+
+2022-08-05 07:57:30,076 WARNING 3756 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/edx-platform/openedx/core/types/admin.py:49: DeprecationWarning: Django 3.2+ available: the _admin_display method and the AdminMethodclass should be removed from openedx.core.types
+  warnings.warn(
+
+2022-08-05 07:57:30,464 WARNING 3756 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/swiftclient/client.py:84: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if StrictVersion(requests.__version__) < StrictVersion('2.0.0') \
+
+2022-08-05 07:57:32,124 WARNING 3756 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/specifiers.py:255: DeprecationWarning: Creating a LegacyVersion has been deprecated and will be removed in the next major release
+  warnings.warn(
+
+2022-08-05 07:57:32,203 WARNING 3756 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/version.py:111: DeprecationWarning: Creating a LegacyVersion has been deprecated and will be removed in the next major release
+  warnings.warn(
+
+2022-08-05 07:58:40,263 WARNING 3807 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/boto/plugin.py:40: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+  import imp
+
+2022-08-05 07:58:40,307 WARNING 3807 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/botocore/vendored/requests/packages/urllib3/_collections.py:1: DeprecationWarning: Using or importing the ABCs from 'collections' instead of from 'collections.abc' is deprecated since Python 3.3, and in 3.10 it will stop working
+  from collections import Mapping, MutableMapping
+
+2022-08-05 07:58:41,785 WARNING 3807 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/edx-platform/openedx/core/types/admin.py:49: DeprecationWarning: Django 3.2+ available: the _admin_display method and the AdminMethodclass should be removed from openedx.core.types
+  warnings.warn(
+
+2022-08-05 07:58:42,180 WARNING 3807 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/swiftclient/client.py:84: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if StrictVersion(requests.__version__) < StrictVersion('2.0.0') \
+
+2022-08-05 07:58:43,811 WARNING 3807 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/specifiers.py:255: DeprecationWarning: Creating a LegacyVersion has been deprecated and will be removed in the next major release
+  warnings.warn(
+
+2022-08-05 07:58:43,889 WARNING 3807 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/version.py:111: DeprecationWarning: Creating a LegacyVersion has been deprecated and will be removed in the next major release
+  warnings.warn(
+
+2022-08-05 07:58:43,962 INFO 3807 [openedx.core.djangoapps.oauth_dispatch.management.commands.generate_jwt_signing_key] [user None] [ip None] generate_jwt_signing_key.py:124 - Generating new JWT signing keypair for key id 0NCRV2E4.
+2022-08-05 07:58:44,465 INFO 3807 [openedx.core.djangoapps.oauth_dispatch.management.commands.generate_jwt_signing_key] [user None] [ip None] generate_jwt_signing_key.py:139 - New JWT_PUBLIC_SIGNING_JWK_SET: {"keys": [{"kty": "RSA", "kid": "0NCRV2E4", "n": "qc31QYJQb9VbHx2Ih89VuY5Tzx7H4Ynuq9WmGIvxc5mJPTJmS8hSUeLEGKKqcJ8Ph58aCWjV6uTy0vTXJJKwgttMJXP3OxYfkwPUGTs64Wz6MDID_1GEAb2Ymk8QeK4z9iJeeg8BfxHJ3zM31qJQdUUD9aeC_bx0nKARp7q_faayTKQi4VmvJ7r-Gb0tjdYhHm4izPmTBqqWiUxFUiuY9VpuI5SlIFBTVnQGW-HQzvLChYwvgBGrk5ZzDCLgJ5YQ8M-ClxGv1Yq6bix_XZJn0jZVtW9Vy7B7A4fkSlEhAFJAUdwGYIV3ISM8nuHExu3YIsgnzcbmHDOJzZqbbBeHJQ", "e": "AQAB"}]}.
+2022-08-05 07:58:49,142 WARNING 3840 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/boto/plugin.py:40: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+  import imp
+
+2022-08-05 07:58:49,186 WARNING 3840 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/botocore/vendored/requests/packages/urllib3/_collections.py:1: DeprecationWarning: Using or importing the ABCs from 'collections' instead of from 'collections.abc' is deprecated since Python 3.3, and in 3.10 it will stop working
+  from collections import Mapping, MutableMapping
+
+2022-08-05 07:58:50,660 WARNING 3840 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/edx-platform/openedx/core/types/admin.py:49: DeprecationWarning: Django 3.2+ available: the _admin_display method and the AdminMethodclass should be removed from openedx.core.types
+  warnings.warn(
+
+2022-08-05 07:58:51,230 WARNING 3840 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/swiftclient/client.py:84: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if StrictVersion(requests.__version__) < StrictVersion('2.0.0') \
+
+2022-08-05 07:58:51,308 WARNING 3840 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/specifiers.py:255: DeprecationWarning: Creating a LegacyVersion has been deprecated and will be removed in the next major release
+  warnings.warn(
+
+2022-08-05 07:58:51,386 WARNING 3840 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/version.py:111: DeprecationWarning: Creating a LegacyVersion has been deprecated and will be removed in the next major release
+  warnings.warn(
+
+2022-08-05 07:58:52,874 INFO 3840 [common.djangoapps.student.models] [user None] [ip None] models.py:849 - Created new profile for user: user
+2022-08-05 07:58:56,383 WARNING 3855 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/boto/plugin.py:40: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+  import imp
+
+2022-08-05 07:58:56,426 WARNING 3855 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/botocore/vendored/requests/packages/urllib3/_collections.py:1: DeprecationWarning: Using or importing the ABCs from 'collections' instead of from 'collections.abc' is deprecated since Python 3.3, and in 3.10 it will stop working
+  from collections import Mapping, MutableMapping
+
+2022-08-05 07:58:57,912 WARNING 3855 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/edx-platform/openedx/core/types/admin.py:49: DeprecationWarning: Django 3.2+ available: the _admin_display method and the AdminMethodclass should be removed from openedx.core.types
+  warnings.warn(
+
+2022-08-05 07:58:58,306 WARNING 3855 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/swiftclient/client.py:84: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if StrictVersion(requests.__version__) < StrictVersion('2.0.0') \
+
+2022-08-05 07:58:59,944 WARNING 3855 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/specifiers.py:255: DeprecationWarning: Creating a LegacyVersion has been deprecated and will be removed in the next major release
+  warnings.warn(
+
+2022-08-05 07:59:00,024 WARNING 3855 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/version.py:111: DeprecationWarning: Creating a LegacyVersion has been deprecated and will be removed in the next major release
+  warnings.warn(
+
+2022-08-05 07:59:00,279 INFO 3855 [common.djangoapps.student.models] [user None] [ip None] models.py:849 - Created new profile for user: studio_worker
+2022-08-05 07:59:03,829 WARNING 3869 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/boto/plugin.py:40: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+  import imp
+
+2022-08-05 07:59:03,872 WARNING 3869 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/botocore/vendored/requests/packages/urllib3/_collections.py:1: DeprecationWarning: Using or importing the ABCs from 'collections' instead of from 'collections.abc' is deprecated since Python 3.3, and in 3.10 it will stop working
+  from collections import Mapping, MutableMapping
+
+2022-08-05 07:59:05,354 WARNING 3869 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/edx-platform/openedx/core/types/admin.py:49: DeprecationWarning: Django 3.2+ available: the _admin_display method and the AdminMethodclass should be removed from openedx.core.types
+  warnings.warn(
+
+2022-08-05 07:59:05,750 WARNING 3869 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/swiftclient/client.py:84: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if StrictVersion(requests.__version__) < StrictVersion('2.0.0') \
+
+2022-08-05 07:59:07,385 WARNING 3869 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/specifiers.py:255: DeprecationWarning: Creating a LegacyVersion has been deprecated and will be removed in the next major release
+  warnings.warn(
+
+2022-08-05 07:59:07,463 WARNING 3869 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/version.py:111: DeprecationWarning: Creating a LegacyVersion has been deprecated and will be removed in the next major release
+  warnings.warn(
+
+2022-08-05 07:59:07,544 INFO 3869 [openedx.core.djangoapps.oauth_dispatch.management.commands.create_dot_application] [user None] [ip None] create_dot_application.py:82 - Created studio-sso application with id: 2, client_id: g4NahlE9BsIaaXhpigRyr6F6y9rntugs, and client_secret: 4KHAuLuHDRnoehnPGn2IzEHhNh2YEbOC
+2022-08-05 07:59:07,548 INFO 3869 [openedx.core.djangoapps.oauth_dispatch.management.commands.create_dot_application] [user None] [ip None] create_dot_application.py:130 - Created application access for studio-sso with scopes: user_id
+2022-08-05 08:01:32,322 WARNING 4229 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/boto/plugin.py:40: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+  import imp
+
+2022-08-05 08:01:32,366 WARNING 4229 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/botocore/vendored/requests/packages/urllib3/_collections.py:1: DeprecationWarning: Using or importing the ABCs from 'collections' instead of from 'collections.abc' is deprecated since Python 3.3, and in 3.10 it will stop working
+  from collections import Mapping, MutableMapping
+
+2022-08-05 08:01:33,851 WARNING 4229 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/edx-platform/openedx/core/types/admin.py:49: DeprecationWarning: Django 3.2+ available: the _admin_display method and the AdminMethodclass should be removed from openedx.core.types
+  warnings.warn(
+
+2022-08-05 08:01:34,416 WARNING 4229 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/swiftclient/client.py:84: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if StrictVersion(requests.__version__) < StrictVersion('2.0.0') \
+
+2022-08-05 08:01:34,494 WARNING 4229 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/specifiers.py:255: DeprecationWarning: Creating a LegacyVersion has been deprecated and will be removed in the next major release
+  warnings.warn(
+
+2022-08-05 08:01:34,573 WARNING 4229 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/version.py:111: DeprecationWarning: Creating a LegacyVersion has been deprecated and will be removed in the next major release
+  warnings.warn(
+
+2022-08-05 08:01:36,050 INFO 4229 [openedx.core.djangoapps.oauth_dispatch.management.commands.create_dot_application] [user None] [ip None] create_dot_application.py:97 - Updated studio-sso application with id: 2, client_id: g4NahlE9BsIaaXhpigRyr6F6y9rntugs, and client_secret: 4KHAuLuHDRnoehnPGn2IzEHhNh2YEbOC
+2022-08-05 08:01:36,052 INFO 4229 [openedx.core.djangoapps.oauth_dispatch.management.commands.create_dot_application] [user None] [ip None] create_dot_application.py:117 - Updated application access for studio-sso with scopes: user_id
+2022-08-05 08:01:39,242 WARNING 4245 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/boto/plugin.py:40: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+  import imp
+
+2022-08-05 08:01:39,292 WARNING 4245 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/botocore/vendored/requests/packages/urllib3/_collections.py:1: DeprecationWarning: Using or importing the ABCs from 'collections' instead of from 'collections.abc' is deprecated since Python 3.3, and in 3.10 it will stop working
+  from collections import Mapping, MutableMapping
+
+2022-08-05 08:01:41,003 WARNING 4245 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/edx-platform/openedx/core/types/admin.py:49: DeprecationWarning: Django 3.2+ available: the _admin_display method and the AdminMethodclass should be removed from openedx.core.types
+  warnings.warn(
+
+2022-08-05 08:01:41,099 WARNING 4245 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/storages/backends/s3boto.py:41: DeprecationWarning: The S3BotoStorage backend is deprecated in favor of the S3Boto3Storage backend and will be removed in django-storages 1.8. This backend is mostly in bugfix only mode and has been for quite a while (in much the same way as its underlying library 'boto'). For performance, security and new feature reasons it is _strongly_ recommended that you update to the S3Boto3Storage backend. Please see the migration docs https://django-storages.readthedocs.io/en/latest/backends/amazon-S3.html#migrating-boto-to-boto3.
+  warnings.warn(
+
+2022-08-05 08:01:41,305 WARNING 4245 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/swiftclient/client.py:84: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if StrictVersion(requests.__version__) < StrictVersion('2.0.0') \
+
+2022-08-05 08:01:41,385 WARNING 4245 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/specifiers.py:255: DeprecationWarning: Creating a LegacyVersion has been deprecated and will be removed in the next major release
+  warnings.warn(
+
+2022-08-05 08:01:41,463 WARNING 4245 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/version.py:111: DeprecationWarning: Creating a LegacyVersion has been deprecated and will be removed in the next major release
+  warnings.warn(
+
+2022-08-05 08:01:42,996 INFO 4245 [xmodule.modulestore.xml] [user None] [ip None] xml.py:434 - Course import None: Starting courselike import from /opt/bitnami/edx-demo-course
+2022-08-05 08:01:43,227 WARNING 4245 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/edx-platform/common/lib/xmodule/xmodule/x_module.py:1355: FieldDataDeprecationWarning: Passing field_data as a constructor argument to Runtimes is deprecated
+  super().__init__(**kwargs)
+
+2022-08-05 08:01:43,380 WARNING 4245 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/xblock/runtime.py:1023: UserIdDeprecationWarning: Runtime.user_id is deprecated
+  scope_ids = ScopeIds(self.user_id, aside_type, aside_def_id, aside_usage_id)
+
+2022-08-05 08:01:43,395 INFO 4245 [edxval.models] [user None] [ip None] models.py:704 - VAL: Video created with id [e42ad84b-b44e-470d-abc5-d68528ae8254] and status [external]
+2022-08-05 08:01:43,399 WARNING 4245 [edxval.api] [user None] [ip None] api.py:1178 - [edx-val] "en" transcript "subs_name_of_file.srt.sjson" for video "e42ad84b-b44e-470d-abc5-d68528ae8254" is not found.
+2022-08-05 08:01:43,537 WARNING 4245 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/dateutil/parser.py:314: DeprecationWarning: Using or importing the ABCs from 'collections' instead of from 'collections.abc' is deprecated since Python 3.3, and in 3.10 it will stop working
+  if (isinstance(tzinfos, collections.Callable) or
+
+2022-08-05 08:01:43,564 INFO 4245 [edxval.models] [user None] [ip None] models.py:704 - VAL: Video created with id [6a11cc3d-90f4-43e5-88f7-d1222ae5a1a4] and status [external]
+2022-08-05 08:01:43,576 WARNING 4245 [edx_toggles.toggles.internal.waffle.flag] [user None] [ip None] flag.py:79 - Flag 'edxval.override_existing_imported_transcripts' accessed without a request, which is likely in the context of a celery task.
+2022-08-05 08:01:43,582 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:43,598 INFO 4245 [edxval.models] [user None] [ip None] models.py:704 - VAL: Video created with id [90d057e0-820c-4ee2-bf4e-d8a3f19dd1c4] and status [external]
+2022-08-05 08:01:43,723 WARNING 4245 [edx_toggles.toggles.internal.waffle.flag] [user None] [ip None] flag.py:79 - Flag 'edxval.override_existing_imported_transcripts' accessed without a request, which is likely in the context of a celery task.
+2022-08-05 08:01:43,728 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:43,745 INFO 4245 [edxval.models] [user None] [ip None] models.py:704 - VAL: Video created with id [32e5081c-8e25-433c-a3bc-cd91b1122a2d] and status [external]
+2022-08-05 08:01:43,754 ERROR 4245 [xmodule.vertical_block] [user None] [ip None] vertical_block.py:207 - Unable to load child when parsing Vertical. Continuing...
+Traceback (most recent call last):
+  File "/opt/bitnami/edx/app/edxapp/edx-platform/common/lib/xmodule/xmodule/vertical_block.py", line 204, in definition_from_xml
+    child_block = system.process_xml(etree.tostring(child, encoding='unicode'))
+  File "/opt/bitnami/edx/app/edxapp/edx-platform/common/lib/xmodule/xmodule/modulestore/xml.py", line 165, in process_xml
+    descriptor = self.xblock_from_node(
+  File "/opt/bitnami/edx/app/edxapp/edx-platform/common/lib/xmodule/xmodule/x_module.py", line 1676, in xblock_from_node
+    self._convert_reference_fields_to_keys(block)  # difference from XBlock.runtime
+  File "/opt/bitnami/edx/app/edxapp/edx-platform/common/lib/xmodule/xmodule/x_module.py", line 1721, in _convert_reference_fields_to_keys
+    field_value = getattr(xblock, field.name)
+  File "/opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/xblock/fields.py", line 512, in __get__
+    value = self.from_json(field_data.get(xblock, self.name))
+  File "/opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/xblock/fields.py", line 818, in from_json
+    raise TypeError('Value stored in a List must be None or a list, found %s' % type(value))
+TypeError: Value stored in a List must be None or a list, found <class 'str'>
+2022-08-05 08:01:43,758 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:43,774 INFO 4245 [edxval.models] [user None] [ip None] models.py:704 - VAL: Video created with id [46c0efd7-a0ee-4234-931c-131cb44dffd7] and status [external]
+2022-08-05 08:01:43,785 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:43,800 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:43,822 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:43,984 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:43,996 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:44,009 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:44,020 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:44,030 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:44,042 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:44,053 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:44,105 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:44,119 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:44,131 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:44,163 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:44,182 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:44,210 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:44,226 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:44,276 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:44,305 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:44,344 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:44,375 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:44,387 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:44,398 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:44,414 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:44,425 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:44,437 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:44,448 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:44,524 INFO 4245 [xmodule.modulestore.xml] [user None] [ip None] xml.py:529 - Course import None: Done with courselike import from /opt/bitnami/edx-demo-course
+2022-08-05 08:01:44,527 INFO 4245 [xmodule.modulestore.mixed] [user None] [ip None] mixed.py:658 - Creating course run course-v1:edX+DemoX+Demo_Course...
+2022-08-05 08:01:44,796 WARNING 4245 [edx_toggles.toggles.internal.waffle.flag] [user None] [ip None] flag.py:79 - Flag 'cms.export_course_metadata' accessed without a request, which is likely in the context of a celery task.
+2022-08-05 08:01:44,801 INFO 4245 [openedx.core.djangoapps.content.course_overviews.models] [user None] [ip None] models.py:278 - Attempting to load CourseOverview for course course-v1:edX+DemoX+Demo_Course from modulestore.
+2022-08-05 08:01:44,803 INFO 4245 [openedx.core.djangoapps.content.course_overviews.models] [user None] [ip None] models.py:196 - Creating course overview for course-v1:edX+DemoX+Demo_Course.
+2022-08-05 08:01:44,837 INFO 4245 [openedx.core.djangoapps.course_date_signals.handlers] [user None] [ip None] handlers.py:125 - Extracting course dates for course-v1:edX+DemoX+Demo_Course
+2022-08-05 08:01:44,838 INFO 4245 [openedx.core.djangoapps.course_date_signals.handlers] [user None] [ip None] handlers.py:159 - Extracting dates from 2 items in course-v1:edX+DemoX+Demo_Course
+2022-08-05 08:01:44,868 INFO 4245 [celery_utils.logged_task] [user None] [ip None] logged_task.py:25 - Task lms.djangoapps.discussion.tasks.update_discussions_map[78b3c729-fafc-4153-a475-9eae42e0feca] submitted with arguments [{'course_id': 'course-v1:edX+DemoX+Demo_Course'}], None
+2022-08-05 08:01:44,868 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function listen_for_course_publish at 0x7f1f358295e0> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:44,868 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function export_course_metadata at 0x7f1f3584ae50> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:44,868 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function _listen_for_course_publish at 0x7f1f34c67ee0> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:44,868 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function _listen_for_course_publish at 0x7f1f34c660d0> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:44,869 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function update_block_structure_on_course_publish at 0x7f1f34c7c310> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:44,869 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function _listen_for_course_publish at 0x7f1f34c85ee0> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:44,869 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function extract_dates at 0x7f1f34b70820> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:44,869 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function trigger_update_xblocks_cache_task at 0x7f1f34a7e5e0> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:44,869 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function update_course_apps at 0x7f1f34a89160> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:44,869 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function update_discussions_on_course_publish at 0x7f1f34a44310> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:44,869 INFO 4245 [xmodule.modulestore.mixed] [user None] [ip None] mixed.py:666 - Course run course-v1:edX+DemoX+Demo_Course created successfully!
+2022-08-05 08:01:45,007 INFO 4245 [xmodule.modulestore.xml_importer] [user None] [ip None] xml_importer.py:322 - Course import None: Importing static content and python library
+2022-08-05 08:01:49,372 ERROR 4245 [root] [user None] [ip None] content.py:460 - Failed to generate thumbnail for asset-v1:edX+DemoX+Demo_Course+type@asset+block@jsmol_Al2O3.png. Exception: cannot identify image file <_io.BytesIO object at 0x7f1f1be9b7c0>
+Traceback (most recent call last):
+  File "/opt/bitnami/edx/app/edxapp/edx-platform/common/lib/xmodule/xmodule/contentstore/content.py", line 440, in generate_thumbnail
+    with Image.open(source) as image:
+  File "/opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/PIL/Image.py", line 3023, in open
+    raise UnidentifiedImageError(
+PIL.UnidentifiedImageError: cannot identify image file <_io.BytesIO object at 0x7f1f1be9b7c0>
+2022-08-05 08:01:50,074 ERROR 4245 [root] [user None] [ip None] content.py:460 - Failed to generate thumbnail for asset-v1:edX+DemoX+Demo_Course+type@asset+block@jsmol_1hxw.png. Exception: cannot identify image file <_io.BytesIO object at 0x7f1f1bd47950>
+Traceback (most recent call last):
+  File "/opt/bitnami/edx/app/edxapp/edx-platform/common/lib/xmodule/xmodule/contentstore/content.py", line 440, in generate_thumbnail
+    with Image.open(source) as image:
+  File "/opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/PIL/Image.py", line 3023, in open
+    raise UnidentifiedImageError(
+PIL.UnidentifiedImageError: cannot identify image file <_io.BytesIO object at 0x7f1f1bd47950>
+2022-08-05 08:01:55,768 INFO 4245 [root] [user None] [ip None] xml_importer.py:393 - Course import course-v1:edX+DemoX+Demo_Course: No assets.xml file present.
+2022-08-05 08:01:55,783 WARNING 4245 [py.warnings] [user None] [ip None] warnings.py:109 - /opt/bitnami/edx/app/edxapp/edx-platform/common/lib/xmodule/xmodule/modulestore/store_utilities.py:17: DeprecationWarning: Flags not at the start of the expression '\n        (?x)       ' (truncated)
+  return re.compile("""
+
+2022-08-05 08:01:56,471 WARNING 4245 [edx_toggles.toggles.internal.waffle.flag] [user None] [ip None] flag.py:79 - Flag 'cms.export_course_metadata' accessed without a request, which is likely in the context of a celery task.
+2022-08-05 08:01:56,476 INFO 4245 [openedx.core.djangoapps.content.course_overviews.models] [user None] [ip None] models.py:278 - Attempting to load CourseOverview for course course-v1:edX+DemoX+Demo_Course from modulestore.
+2022-08-05 08:01:56,477 INFO 4245 [openedx.core.djangoapps.content.course_overviews.models] [user None] [ip None] models.py:188 - Updating course overview for course-v1:edX+DemoX+Demo_Course.
+2022-08-05 08:01:56,490 INFO 4245 [openedx.core.djangoapps.content.course_overviews.signals] [user None] [ip None] signals.py:71 - Course start date changed: course=course-v1:edX+DemoX+Demo_Course previous=2030-01-01T00:00:00+00:00 new=2013-02-05T05:00:00+00:00
+2022-08-05 08:01:56,509 INFO 4245 [celery_utils.logged_task] [user None] [ip None] logged_task.py:25 - Task openedx.core.djangoapps.schedules.tasks.update_course_schedules[09929905-9ca3-41a3-8bed-0d628629b233] submitted with arguments None, {'course_id': 'course-v1:edX+DemoX+Demo_Course', 'new_start_date_str': '2013-02-05T05:00:00+00:00', 'new_upgrade_deadline_str': None}
+2022-08-05 08:01:56,521 INFO 4245 [openedx.core.djangoapps.course_date_signals.handlers] [user None] [ip None] handlers.py:125 - Extracting course dates for course-v1:edX+DemoX+Demo_Course
+2022-08-05 08:01:56,534 INFO 4245 [openedx.core.djangoapps.course_date_signals.handlers] [user None] [ip None] handlers.py:159 - Extracting dates from 146 items in course-v1:edX+DemoX+Demo_Course
+2022-08-05 08:01:56,537 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'course', 'course'), start, datetime.datetime(2013, 2, 5, 5, 0, tzinfo=tzlocal())
+2022-08-05 08:01:56,542 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'sequential', 'edx_introduction'), start, datetime.datetime(1970, 1, 1, 5, 0, tzinfo=tzlocal())
+2022-08-05 08:01:56,548 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'sequential', 'basic_questions'), start, datetime.datetime(2013, 2, 5, 0, 0, tzinfo=<UTC>)
+2022-08-05 08:01:56,552 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'problem', 'Sample_Algebraic_Problem'), start, datetime.datetime(2013, 2, 5, 0, 0, tzinfo=<UTC>)
+2022-08-05 08:01:56,555 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'sequential', 'simulations'), start, datetime.datetime(1970, 1, 1, 5, 0, tzinfo=<UTC>)
+2022-08-05 08:01:56,558 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'html', 'html_07d547513285'), start, datetime.datetime(2013, 2, 5, 0, 0, tzinfo=tzlocal())
+2022-08-05 08:01:56,560 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'html', '700x_pathways'), start, datetime.datetime(2013, 2, 5, 0, 0, tzinfo=tzlocal())
+2022-08-05 08:01:56,563 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'sequential', 'graded_simulations'), start, datetime.datetime(2013, 2, 5, 0, 0, tzinfo=<UTC>)
+2022-08-05 08:01:56,566 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'problem', '700x_editmolB'), start, datetime.datetime(2013, 2, 5, 0, 0, tzinfo=<UTC>)
+2022-08-05 08:01:56,568 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'problem', 'python_grader'), start, datetime.datetime(2013, 2, 5, 0, 0, tzinfo=<UTC>)
+2022-08-05 08:01:56,571 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'problem', 'free_form_simulation'), start, datetime.datetime(2013, 2, 5, 0, 0, tzinfo=<UTC>)
+2022-08-05 08:01:56,574 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'problem', 'logic_gate_problem'), start, datetime.datetime(2013, 2, 5, 0, 0, tzinfo=<UTC>)
+2022-08-05 08:01:56,576 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'problem', '700x_proteinmake'), start, datetime.datetime(2013, 2, 5, 0, 0, tzinfo=<UTC>)
+2022-08-05 08:01:56,579 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'sequential', '48ecb924d7fe4b66a230137626bfa93e'), start, datetime.datetime(1978, 2, 5, 0, 0, tzinfo=<UTC>)
+2022-08-05 08:01:56,582 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'chapter', '1414ffd5143b4b508f739b563ab468b7'), start, datetime.datetime(1970, 1, 1, 5, 0, tzinfo=<UTC>)
+2022-08-05 08:01:56,585 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'sequential', 'workflow'), start, datetime.datetime(2013, 2, 5, 0, 0, tzinfo=<UTC>)
+2022-08-05 08:01:56,587 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'chapter', '9fca584977d04885bc911ea76a9ef29e'), start, datetime.datetime(2970, 1, 1, 5, 0, tzinfo=tzlocal())
+2022-08-05 08:01:56,620 INFO 4245 [celery_utils.logged_task] [user None] [ip None] logged_task.py:25 - Task lms.djangoapps.discussion.tasks.update_discussions_map[b3a559ae-8d70-4125-a1ef-a46191305324] submitted with arguments [{'course_id': 'course-v1:edX+DemoX+Demo_Course'}], None
+2022-08-05 08:01:56,620 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function listen_for_course_publish at 0x7f1f358295e0> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:56,620 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function export_course_metadata at 0x7f1f3584ae50> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:56,620 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function _listen_for_course_publish at 0x7f1f34c67ee0> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:56,620 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function _listen_for_course_publish at 0x7f1f34c660d0> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:56,620 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function update_block_structure_on_course_publish at 0x7f1f34c7c310> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:56,621 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function _listen_for_course_publish at 0x7f1f34c85ee0> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:56,621 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function extract_dates at 0x7f1f34b70820> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:56,621 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function trigger_update_xblocks_cache_task at 0x7f1f34a7e5e0> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:56,621 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function update_course_apps at 0x7f1f34a89160> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:56,621 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function update_discussions_on_course_publish at 0x7f1f34a44310> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:56,660 WARNING 4245 [xmodule.modulestore.xml] [user None] [ip None] xml.py:205 - i4x://edX/DemoX/html/2b94658d2eee4d85ae13f83bc24cfca9 has more than one definition
+2022-08-05 08:01:56,664 WARNING 4245 [xmodule.modulestore.xml] [user None] [ip None] xml.py:205 - i4x://edX/DemoX/problem/700x_editmolB has more than one definition
+2022-08-05 08:01:56,664 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:56,667 WARNING 4245 [xmodule.modulestore.xml] [user None] [ip None] xml.py:205 - i4x://edX/DemoX/discussion/0aa7a3bdbe18427795b0c1a1d7c3cb9a has more than one definition
+2022-08-05 08:01:56,675 WARNING 4245 [xmodule.modulestore.xml] [user None] [ip None] xml.py:205 - i4x://edX/DemoX/html/78e3719e864e45f3bee938461f3c3de6 has more than one definition
+2022-08-05 08:01:56,678 WARNING 4245 [xmodule.modulestore.xml] [user None] [ip None] xml.py:205 - i4x://edX/DemoX/problem/700x_proteinmake has more than one definition
+2022-08-05 08:01:56,678 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:56,682 WARNING 4245 [xmodule.modulestore.xml] [user None] [ip None] xml.py:205 - i4x://edX/DemoX/discussion/ed01bcd164e64038a78964a16eac3edc has more than one definition
+2022-08-05 08:01:56,693 INFO 4245 [edxval.models] [user None] [ip None] models.py:704 - VAL: Video created with id [e6bece18-cd34-4450-9213-fad23e14cddb] and status [external]
+2022-08-05 08:01:56,701 WARNING 4245 [edx_toggles.toggles.internal.waffle.flag] [user None] [ip None] flag.py:79 - Flag 'edxval.override_existing_imported_transcripts' accessed without a request, which is likely in the context of a celery task.
+2022-08-05 08:01:56,719 WARNING 4245 [xmodule.modulestore.xml] [user None] [ip None] xml.py:145 - Non-unique url_name in xml.  This may break state tracking for content.  url_name=Video_Demonstrations.  Content=<vertical display_name="Video Demonstrations" parent_sequential_url="i4x://edX/DemoX/sequential/19a3
+2022-08-05 08:01:56,722 WARNING 4245 [xmodule.modulestore.xml] [user None] [ip None] xml.py:205 - i4x://edX/DemoX/html/ed5dccf14ae94353961f46fa07217491 has more than one definition
+2022-08-05 08:01:56,727 INFO 4245 [edxval.models] [user None] [ip None] models.py:704 - VAL: Video created with id [9d3e8af7-dbf8-4050-a484-1f1607c36def] and status [external]
+2022-08-05 08:01:56,735 ERROR 4245 [xmodule.vertical_block] [user None] [ip None] vertical_block.py:207 - Unable to load child when parsing Vertical. Continuing...
+Traceback (most recent call last):
+  File "/opt/bitnami/edx/app/edxapp/edx-platform/common/lib/xmodule/xmodule/vertical_block.py", line 204, in definition_from_xml
+    child_block = system.process_xml(etree.tostring(child, encoding='unicode'))
+  File "/opt/bitnami/edx/app/edxapp/edx-platform/common/lib/xmodule/xmodule/modulestore/xml.py", line 165, in process_xml
+    descriptor = self.xblock_from_node(
+  File "/opt/bitnami/edx/app/edxapp/edx-platform/common/lib/xmodule/xmodule/x_module.py", line 1676, in xblock_from_node
+    self._convert_reference_fields_to_keys(block)  # difference from XBlock.runtime
+  File "/opt/bitnami/edx/app/edxapp/edx-platform/common/lib/xmodule/xmodule/x_module.py", line 1721, in _convert_reference_fields_to_keys
+    field_value = getattr(xblock, field.name)
+  File "/opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/xblock/fields.py", line 512, in __get__
+    value = self.from_json(field_data.get(xblock, self.name))
+  File "/opt/bitnami/edx/app/edxapp/venvs/edxapp/lib/python3.8/site-packages/xblock/fields.py", line 818, in from_json
+    raise TypeError('Value stored in a List must be None or a list, found %s' % type(value))
+TypeError: Value stored in a List must be None or a list, found <class 'str'>
+2022-08-05 08:01:56,736 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:56,739 WARNING 4245 [xmodule.modulestore.xml] [user None] [ip None] xml.py:205 - i4x://edX/DemoX/discussion/9f9e1373cc8243b985c8750cc8acec7d has more than one definition
+2022-08-05 08:01:56,753 WARNING 4245 [xmodule.modulestore.xml] [user None] [ip None] xml.py:205 - i4x://edX/DemoX/html/Lab_5B_Mosfet_Amplifier_Experiment has more than one definition
+2022-08-05 08:01:56,754 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:56,757 WARNING 4245 [xmodule.modulestore.xml] [user None] [ip None] xml.py:205 - i4x://edX/DemoX/discussion/03f051f9a8814881a3783d2511613aa6 has more than one definition
+2022-08-05 08:01:56,763 WARNING 4245 [xmodule.modulestore.xml] [user None] [ip None] xml.py:205 - i4x://edX/DemoX/html/d45779ad3d024a40a09ad8cc317c0970 has more than one definition
+2022-08-05 08:01:56,766 WARNING 4245 [xmodule.modulestore.xml] [user None] [ip None] xml.py:205 - i4x://edX/DemoX/html/55cbc99f262443d886a25cf84594eafb has more than one definition
+2022-08-05 08:01:56,767 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:56,770 WARNING 4245 [xmodule.modulestore.xml] [user None] [ip None] xml.py:205 - i4x://edX/DemoX/discussion/ade92343df3d4953a40ab3adc8805390 has more than one definition
+2022-08-05 08:01:56,783 WARNING 4245 [xmodule.modulestore.xml] [user None] [ip None] xml.py:205 - i4x://edX/DemoX/html/030e35c4756a4ddc8d40b95fbbfff4d4 has more than one definition
+2022-08-05 08:01:56,788 INFO 4245 [edxval.models] [user None] [ip None] models.py:704 - VAL: Video created with id [e275ca05-1dc0-448d-815a-10ccb1ae58b3] and status [external]
+2022-08-05 08:01:56,791 WARNING 4245 [edxval.api] [user None] [ip None] api.py:1178 - [edx-val] "en" transcript "subs_name_of_file.srt.sjson" for video "e275ca05-1dc0-448d-815a-10ccb1ae58b3" is not found.
+2022-08-05 08:01:56,801 WARNING 4245 [xmodule.modulestore.xml] [user None] [ip None] xml.py:205 - i4x://edX/DemoX/video/0b9e39477cf34507a7a48f74be381fdd has more than one definition
+2022-08-05 08:01:56,813 WARNING 4245 [xmodule.modulestore.xml] [user None] [ip None] xml.py:205 - i4x://edX/DemoX/openassessment/b24c33ea35954c7889e1d2944d3fe397 has more than one definition
+2022-08-05 08:01:56,814 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:56,818 WARNING 4245 [xmodule.modulestore.xml] [user None] [ip None] xml.py:205 - i4x://edX/DemoX/discussion/12ad4f3ff4c14114a6e629b00e000976 has more than one definition
+2022-08-05 08:01:56,826 WARNING 4245 [xmodule.modulestore.xml] [user None] [ip None] xml.py:205 - i4x://edX/DemoX/problem/Sample_ChemFormula_Problem has more than one definition
+2022-08-05 08:01:56,826 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:56,830 WARNING 4245 [xmodule.modulestore.xml] [user None] [ip None] xml.py:205 - i4x://edX/DemoX/discussion/4d672c5893cb4f1dad0de67d2008522e has more than one definition
+2022-08-05 08:01:56,847 WARNING 4245 [root] [user None] [ip None] mixins.py:518 - XBlock <class 'xblock.internal.DiscussionXBlockWithMixins'> does not contain field url_name
+2022-08-05 08:01:56,855 WARNING 4245 [xmodule.modulestore.xml] [user None] [ip None] xml.py:145 - Non-unique url_name in xml.  This may break state tracking for content.  url_name=New_Unit.  Content=<vertical display_name="New Unit" parent_sequential_url="i4x://edX/DemoX/sequential/simulations" ind
+2022-08-05 08:01:56,861 INFO 4245 [edxval.models] [user None] [ip None] models.py:704 - VAL: Video created with id [ed3efaa2-9680-4c96-b71f-3f75677e99de] and status [external]
+2022-08-05 08:01:56,864 WARNING 4245 [edxval.api] [user None] [ip None] api.py:1178 - [edx-val] "en" transcript "subs_3_yD_cEKoCk.srt.sjson" for video "ed3efaa2-9680-4c96-b71f-3f75677e99de" is not found.
+2022-08-05 08:01:57,147 WARNING 4245 [edx_toggles.toggles.internal.waffle.flag] [user None] [ip None] flag.py:79 - Flag 'cms.export_course_metadata' accessed without a request, which is likely in the context of a celery task.
+2022-08-05 08:01:57,151 INFO 4245 [openedx.core.djangoapps.content.course_overviews.models] [user None] [ip None] models.py:278 - Attempting to load CourseOverview for course course-v1:edX+DemoX+Demo_Course from modulestore.
+2022-08-05 08:01:57,152 INFO 4245 [openedx.core.djangoapps.content.course_overviews.models] [user None] [ip None] models.py:188 - Updating course overview for course-v1:edX+DemoX+Demo_Course.
+2022-08-05 08:01:57,177 INFO 4245 [openedx.core.djangoapps.course_date_signals.handlers] [user None] [ip None] handlers.py:125 - Extracting course dates for course-v1:edX+DemoX+Demo_Course
+2022-08-05 08:01:57,240 INFO 4245 [openedx.core.djangoapps.course_date_signals.handlers] [user None] [ip None] handlers.py:159 - Extracting dates from 146 items in course-v1:edX+DemoX+Demo_Course
+2022-08-05 08:01:57,243 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'course', 'course'), start, datetime.datetime(2013, 2, 5, 5, 0, tzinfo=<bson.tz_util.FixedOffset object at 0x7f1f1baf8580>)
+2022-08-05 08:01:57,245 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'sequential', 'edx_introduction'), start, datetime.datetime(1970, 1, 1, 5, 0, tzinfo=<bson.tz_util.FixedOffset object at 0x7f1f1baf81f0>)
+2022-08-05 08:01:57,247 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'sequential', 'basic_questions'), start, datetime.datetime(2013, 2, 5, 0, 0, tzinfo=<bson.tz_util.FixedOffset object at 0x7f1f1bb4dd00>)
+2022-08-05 08:01:57,249 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'problem', 'Sample_Algebraic_Problem'), start, datetime.datetime(2013, 2, 5, 0, 0, tzinfo=<bson.tz_util.FixedOffset object at 0x7f1f1bb0ff70>)
+2022-08-05 08:01:57,250 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'sequential', 'simulations'), start, datetime.datetime(1970, 1, 1, 5, 0, tzinfo=<bson.tz_util.FixedOffset object at 0x7f1f1bb3fee0>)
+2022-08-05 08:01:57,252 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'html', 'html_07d547513285'), start, datetime.datetime(2013, 2, 5, 0, 0, tzinfo=<bson.tz_util.FixedOffset object at 0x7f1f1bb1c7f0>)
+2022-08-05 08:01:57,253 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'html', '700x_pathways'), start, datetime.datetime(2013, 2, 5, 0, 0, tzinfo=<bson.tz_util.FixedOffset object at 0x7f1f1bb3b820>)
+2022-08-05 08:01:57,255 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'sequential', 'graded_simulations'), start, datetime.datetime(2013, 2, 5, 0, 0, tzinfo=<bson.tz_util.FixedOffset object at 0x7f1f1bb485e0>)
+2022-08-05 08:01:57,256 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'problem', '700x_editmolB'), start, datetime.datetime(2013, 2, 5, 0, 0, tzinfo=<bson.tz_util.FixedOffset object at 0x7f1f1baa6430>)
+2022-08-05 08:01:57,258 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'problem', 'python_grader'), start, datetime.datetime(2013, 2, 5, 0, 0, tzinfo=<bson.tz_util.FixedOffset object at 0x7f1f1baa6f40>)
+2022-08-05 08:01:57,260 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'problem', 'free_form_simulation'), start, datetime.datetime(2013, 2, 5, 0, 0, tzinfo=<bson.tz_util.FixedOffset object at 0x7f1f1baaaac0>)
+2022-08-05 08:01:57,261 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'problem', 'logic_gate_problem'), start, datetime.datetime(2013, 2, 5, 0, 0, tzinfo=<bson.tz_util.FixedOffset object at 0x7f1f1baaadf0>)
+2022-08-05 08:01:57,263 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'problem', '700x_proteinmake'), start, datetime.datetime(2013, 2, 5, 0, 0, tzinfo=<bson.tz_util.FixedOffset object at 0x7f1f1baaf940>)
+2022-08-05 08:01:57,264 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'sequential', '48ecb924d7fe4b66a230137626bfa93e'), start, datetime.datetime(1978, 2, 5, 0, 0, tzinfo=<bson.tz_util.FixedOffset object at 0x7f1f1bb9f460>)
+2022-08-05 08:01:57,266 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'chapter', '1414ffd5143b4b508f739b563ab468b7'), start, datetime.datetime(1970, 1, 1, 5, 0, tzinfo=<bson.tz_util.FixedOffset object at 0x7f1f1bac1400>)
+2022-08-05 08:01:57,267 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'sequential', 'workflow'), start, datetime.datetime(2013, 2, 5, 0, 0, tzinfo=<bson.tz_util.FixedOffset object at 0x7f1f1bac18e0>)
+2022-08-05 08:01:57,269 INFO 4245 [edx_when.api] [user None] [ip None] api.py:94 - Setting date for BlockUsageLocator(CourseLocator('edX', 'DemoX', 'Demo_Course', None, None), 'chapter', '9fca584977d04885bc911ea76a9ef29e'), start, datetime.datetime(2970, 1, 1, 5, 0, tzinfo=<bson.tz_util.FixedOffset object at 0x7f1f1bad92b0>)
+2022-08-05 08:01:57,297 INFO 4245 [celery_utils.logged_task] [user None] [ip None] logged_task.py:25 - Task lms.djangoapps.discussion.tasks.update_discussions_map[5f397975-fcc8-4127-9956-a2e7239da6f6] submitted with arguments [{'course_id': 'course-v1:edX+DemoX+Demo_Course'}], None
+2022-08-05 08:01:57,297 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function listen_for_course_publish at 0x7f1f358295e0> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:57,298 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function export_course_metadata at 0x7f1f3584ae50> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:57,298 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function _listen_for_course_publish at 0x7f1f34c67ee0> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:57,298 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function _listen_for_course_publish at 0x7f1f34c660d0> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:57,298 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function update_block_structure_on_course_publish at 0x7f1f34c7c310> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:57,298 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function _listen_for_course_publish at 0x7f1f34c85ee0> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:57,298 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function extract_dates at 0x7f1f34b70820> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:57,298 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function trigger_update_xblocks_cache_task at 0x7f1f34a7e5e0> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:57,298 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function update_course_apps at 0x7f1f34a89160> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None
+2022-08-05 08:01:57,298 INFO 4245 [xmodule.modulestore.django] [user None] [ip None] django.py:199 - Sent course_published signal to <function update_discussions_on_course_publish at 0x7f1f34a44310> with kwargs {'course_key': CourseLocator('edX', 'DemoX', 'Demo_Course', None, None)}. Response was: None

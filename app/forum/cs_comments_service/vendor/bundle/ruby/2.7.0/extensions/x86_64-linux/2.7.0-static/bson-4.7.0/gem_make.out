@@ -1,0 +1,21 @@
+current directory: /opt/bitnami/edx/app/forum/cs_comments_service/vendor/bundle/ruby/2.7.0/gems/bson-4.7.0/ext/bson
+/opt/bitnami/ruby/bin/ruby -I /opt/bitnami/ruby/lib/ruby/site_ruby/2.7.0 -r ./siteconf20220704-56-8ycn76.rb extconf.rb
+creating Makefile
+
+current directory: /opt/bitnami/edx/app/forum/cs_comments_service/vendor/bundle/ruby/2.7.0/gems/bson-4.7.0/ext/bson
+make DESTDIR\= clean
+
+current directory: /opt/bitnami/edx/app/forum/cs_comments_service/vendor/bundle/ruby/2.7.0/gems/bson-4.7.0/ext/bson
+make DESTDIR\=
+compiling bytebuf.c
+compiling endian.c
+compiling init.c
+compiling libbson-utf8.c
+compiling read.c
+compiling util.c
+compiling write.c
+linking shared-object bson_native.so
+
+current directory: /opt/bitnami/edx/app/forum/cs_comments_service/vendor/bundle/ruby/2.7.0/gems/bson-4.7.0/ext/bson
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 bson_native.so ./.gem.20220704-56-1t58bsy

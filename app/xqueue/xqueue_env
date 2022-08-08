@@ -1,0 +1,3 @@
+export DJANGO_SETTINGS_MODULE="xqueue.bitnami"
+export PATH="/opt/bitnami/edx/app/xqueue/venvs/xqueue/bin:${PATH}"
+export XQUEUE_CFG="/opt/bitnami/edx/etc/xqueue.yml"
