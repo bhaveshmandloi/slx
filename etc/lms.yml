@@ -212,7 +212,7 @@ DCS_SESSION_COOKIE_SAMESITE_FORCE_ALL: true
 DEFAULT_COURSE_VISIBILITY_IN_CATALOG: both
 DEFAULT_FEEDBACK_EMAIL: feedback@example.com
 DEFAULT_FILE_STORAGE: django.core.files.storage.FileSystemStorage
-DEFAULT_FROM_EMAIL: bhavesh.mandloi@perpetualtp.com
+DEFAULT_FROM_EMAIL: test@slxlearning.com
 DEFAULT_JWT_ISSUER:
     AUDIENCE: lms-key
     ISSUER: http://openedxdemo2.slxprime.com/oauth2
@@ -251,8 +251,8 @@ ELASTIC_SEARCH_CONFIG:
       use_ssl: false
 EMAIL_BACKEND: django.core.mail.backends.smtp.EmailBackend
 EMAIL_HOST: smtp.gmail.com
-EMAIL_HOST_PASSWORD: Nehu@123
-EMAIL_HOST_USER: bhavesh.mandloi@perpetualtp.com
+EMAIL_HOST_PASSWORD: Slxptp@123
+EMAIL_HOST_USER: test@slxlearning.com
 EMAIL_USE_TLS: true
 ENABLE_COMPREHENSIVE_THEMING: false
 ENTERPRISE_API_URL: http://openedxdemo2.slxprime.com/enterprise/api/v1
