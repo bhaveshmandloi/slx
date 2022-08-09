@@ -190,7 +190,7 @@ DATA_DIR: /opt/bitnami/edx/var/edxapp
 DEFAULT_COURSE_VISIBILITY_IN_CATALOG: both
 DEFAULT_FEEDBACK_EMAIL: feedback@example.com
 DEFAULT_FILE_STORAGE: django.core.files.storage.FileSystemStorage
-DEFAULT_FROM_EMAIL: bhavesh.mandloi@perpetualtp.com
+DEFAULT_FROM_EMAIL: test@slxlearning.com
 DEFAULT_JWT_ISSUER:
     AUDIENCE: lms-key
     ISSUER: http://openedxdemo2.slxprime.com/oauth2
